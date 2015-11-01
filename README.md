@@ -6,7 +6,8 @@ Aims of the assignment were to:
 - locate and highlight objects in the image
 - provide full JUnit test coverage
 
-The application is written in Java and Java Swing is used as GUI interface. Picture class from the following website 
+The application is written in Java and Java Swing is used as GUI interface. Union-find and connected component 
+labelling concepts are used to acomplish mentioned above tasks. Picture class from the following website 
 is used to deal with images:
 
 http://introcs.cs.princeton.edu/java/stdlib/Picture.java.html
